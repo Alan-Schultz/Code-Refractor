@@ -8,6 +8,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* header */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +26,9 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+
+
+/* navigation */
 
 header nav {
     padding-top: 15px;
@@ -75,6 +81,9 @@ p {
     margin-left: 20px;
 }
 
+
+/* asides */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -102,6 +111,9 @@ p {
     max-width: 150px;
 }
 
+
+/* main section */
+
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -125,6 +137,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+
+/* footer */
 
 footer {
     padding: 30px;
